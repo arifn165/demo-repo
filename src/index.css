@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.mulish-font {
+  font-family: "Mulish", sans-serif;
+}
+
+a.active {
+  color: #0EA106;
+  border-bottom: 1.7px solid #0EA106;
+}
+
+a.pending {
+  color: blue;
+}
+
+.hero-banner{
+  background-image: url(/banner-img.png);
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  border-radius: 24px;
+}
