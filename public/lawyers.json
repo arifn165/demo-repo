@@ -1,0 +1,123 @@
+ [
+      {
+        "id": 1,
+        "name": "Adv. Nusrat Jahan",
+        "availability": ["Sunday", "Tuesday", "Thursday"],
+        "experience": 10,
+        "speciality": "Family Law",
+        "license": "BD-2024-102",
+        "image": "https://i.ibb.co.com/3yYs1cz/2.jpg",
+        "fees": 5000
+      },
+      {
+        "id": 2,
+        "name": "Adv. Rina Sultana",
+        "availability": ["Sunday", "Tuesday", "Thursday"],
+        "experience": 9,
+        "speciality": "Divorce & Family Law",
+        "license": "BD-2020-067",
+        "image": "https://i.ibb.co.com/f08WRxz/16.jpg",
+        "fees": 6000
+      },
+      {
+        "id": 3,
+        "name": "Adv. Sharmeen Akter",
+        "availability": ["Sunday", "Tuesday", "Friday"],
+        "experience": 12,
+        "speciality": "Corporate Law",
+        "license": "BD-2023-033",
+        "image": "https://i.ibb.co.com/6Wy3MR9/4.jpg",
+        "fees": 5500
+      },
+      {
+        "id": 4,
+        "name": "Adv. Farzana Chowdhury",
+        "availability": ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"],
+        "experience": 11,
+        "speciality": "Labour Law",
+        "license": "BD-2021-074",
+        "image": "https://i.ibb.co.com/4Zt8vFx/6.jpg",
+        "fees": 4800
+      },
+      {
+        "id": 5,
+        "name": "Adv. Lima Rahman",
+        "availability": ["Saturday", "Monday","Thursday"],
+        "experience": 13,
+        "speciality": "Intellectual Property",
+        "license": "BD-2023-019",
+        "image": "https://i.ibb.co.com/ckM7nfw/8.jpg",
+        "fees": 5300
+      },
+      {
+        "id": 6,
+        "name": "Adv. Mahbub Karim",
+        "availability": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"],
+        "experience": 11,
+        "speciality": "Taxation Law",
+        "license": "BD-2018-156",
+        "image": "https://i.ibb.co.com/q5R7G1T/7.jpg",
+        "fees": 7500
+      },
+      {
+        "id": 7,
+        "name": "Adv. Sajid Ahmed",
+        "availability": ["Tuesday", "Thursday", "Saturday", "Monday", "Sunday"],
+        "experience": 6,
+        "speciality": "Human Rights Law",
+        "license": "BD-2016-204",
+        "image": "https://i.ibb.co.com/WGpRkXj/9.jpg",
+        "fees": 6900
+      },
+      {
+        "id": 8,
+        "name": "Adv. Jahangir Alam",
+        "availability": ["Monday", "Wednesday", "Friday"],
+        "experience": 13,
+        "speciality": "Cyber Crime Law",
+        "license": "BD-2015-099",
+        "image": "https://i.ibb.co.com/ZVFyxDt/11.jpg",
+        "fees": 8000
+      },
+      {
+        "id": 9,
+        "name": "Adv. Tamanna Rahim",
+        "availability": ["Sunday", "Wednesday", "Saturday"],
+        "experience": 5,
+        "speciality": "Consumer Rights Law",
+        "license": "BD-2023-059",
+        "image": "https://i.ibb.co.com/fQJKqJZ/14.jpg",
+        "fees": 4900
+      },
+      {
+        "id": 10,
+        "name": "Adv. Rashed Chowdhury",
+        "availability": ["Tuesday", "Thursday", "Friday"],
+        "experience": 14,
+        "speciality": "International Law",
+        "license": "BD-2014-121",
+        "image": "https://i.ibb.co.com/zV7xBRv/15.jpg",
+        "fees": 8500
+      },
+      {
+        "id": 11,
+        "name": "Adv. Sajid Ahmed",
+        "availability": ["Wednesday", "Friday", "Saturday"],
+        "experience": 11,
+        "speciality": "Human Rights Law",
+        "license": "BD-2016-204",
+        "image": "https://i.ibb.co.com/WGpRkXj/9.jpg",
+        "fees": 6900
+      },
+      {
+        "id": 12,
+        "name": "Adv. Rubina Sultana",
+        "availability": ["Sunday", "Tuesday", "Thursday"],
+        "experience": 3,
+        "speciality": "Environmental Law",
+        "license": "BD-2024-041",
+        "image": "https://i.ibb.co.com/G9bCmYJ/10.jpg",
+        "fees": 4500
+      }
+    ]
+  

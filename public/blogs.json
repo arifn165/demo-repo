@@ -1,0 +1,27 @@
+[
+  {
+    "question": "1. What is useState and how does it work in React?",
+    "answer": "UseState is a React Hook that lets you add and manage state in functional components. It returns a state variable and a function to update that state.",
+    "date": "2025-04-21"
+  },
+  {
+    "question": "2. What is the purpose of useEffect in React?",
+    "answer": "UseEffect is a React Hook used to handle side effects like data fetching, subscriptions, or manually changing the DOM. It runs after render and can depend on specific variables.",
+    "date": "2025-04-23"
+  },
+  {
+    "question": "3. Difference between controlled and uncontrolled components. Which one is better?",
+    "answer": "Controlled components use React state to manage input values.Uncontrolled components use the DOM directly via refs.Controlled is better for validation and consistency.",
+    "date": "2025-04-22"
+  },
+  {
+    "question": "4. Tell us something about useFormStatus() in React.",
+    "answer": "useFormStatus() is a React Hook (from React 18+ with server actions) that provides real-time status of a form, like whether it's submitting. It helps show loading states or disable buttons.",
+    "date": "2025-04-22"
+  },
+  {
+    "question": "5. What is the Virtual DOM in React and why is it important?",
+    "answer": "The Virtual DOM in React is a lightweight copy of the real DOM. React updates it first, then efficiently updates only the changed parts in the real DOM. It improves performance.",
+    "date": "2025-04-21"
+  }
+]
