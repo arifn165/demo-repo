@@ -6,7 +6,7 @@ import Home from "../pages/Home";
 import MyBookings from "../pages/MyBookings";
 import Blogs from "../pages/Blogs";
 import ErrorPage from "../pages/ErrorPage";
-import Loader from "../components/ui/Loader";
+import Loader from "../Components/UI/Loader"
 import ViewDetails from "../pages/viewDetails/ViewDetails";
 
 const router = createBrowserRouter([
