@@ -22,3 +22,8 @@ a.pending {
   height: 550px;
   border-radius: 24px;
 }
+
+.arif_header{
+  color: red;
+  font-weight: 200;
+}
